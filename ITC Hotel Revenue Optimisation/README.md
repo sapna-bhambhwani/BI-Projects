@@ -3,9 +3,17 @@ ITC Hotel Revenue Optimization Analytics – Power BI Dashboard
 **Project Overview**
 This Power BI project delivers a comprehensive analytics solution for a multi-property hotel chain (ITC Hotels). It provides end-to-end visibility into key operational and financial metrics, covering Occupancy, Revenue, Room Category Performance, Booking Trends, and Cancellations & Lost Revenue.
 The dashboard is designed to support data-driven decisions for:
+
+
 •	Revenue managers
+
+
 •	Hotel leadership
+
+
 •	Business analysts
+
+
 •	Operations & sales teams
 
 **Key Dashboards Included**
