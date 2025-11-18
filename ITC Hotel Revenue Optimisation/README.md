@@ -1,6 +1,8 @@
 ITC Hotel Revenue Optimization Analytics – Power BI Dashboard
 
 **Project Overview**
+
+
 This Power BI project delivers a comprehensive analytics solution for a multi-property hotel chain (ITC Hotels). It provides end-to-end visibility into key operational and financial metrics, covering Occupancy, Revenue, Room Category Performance, Booking Trends, and Cancellations & Lost Revenue.
 The dashboard is designed to support data-driven decisions for:
 
@@ -18,10 +20,10 @@ The dashboard is designed to support data-driven decisions for:
 
 **Key Dashboards Included**
 
-**Occupancy & Capacity Analysis
+**Occupancy & Capacity Analysis**
 
 
-Metrics Tracked:**
+**Metrics Tracked:**
 
 
 •	Overall Occupancy Rate (43.5%)
@@ -45,11 +47,14 @@ Metrics Tracked:**
 •	WoW Occupancy growth waterfall
 
 **Business Use:**
+
+
 Helps identify underperforming properties, peak periods & market demand shifts.
 
-**Room Category Performance & Booking Insights
+**Room Category Performance & Booking Insights**
 
-Highlights:**
+
+**Highlights:**
 
 
 •	Average Lead Time: 3.71 days
@@ -75,8 +80,10 @@ Highlights:**
 
 Helps understand booking behavior & optimize pricing & inventory by room class.
 
-**Cancellations & Lost Revenue Analysis
-Key Insights:**
+**Cancellations & Lost Revenue Analysis**
+
+
+**Key Insights:**
 
 •	Cancellation Rate: ~25%
 
@@ -100,6 +107,7 @@ Key Insights:**
 
 
 Identifies revenue leakage, helps implement stronger retention and cancellation policies.
+
 
 **Strategic Insights Summary**
 
@@ -154,6 +162,8 @@ Identifies revenue leakage, helps implement stronger retention and cancellation 
 
 
 **Dataset (Used for Analysis)**
+
+
 The dataset includes:
 
 
@@ -191,6 +201,8 @@ Occupancy
 
 
 **Dimension Tables:**
+
+
 Hotels
 
 
